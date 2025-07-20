@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542800477510",
+    "project_id": "fastpass-9ce4e",
+    "storage_bucket": "fastpass-9ce4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542800477510:android:6d7cac5e878329539db947",
+        "android_client_info": {
+          "package_name": "com.example.fastpass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpA_bs3Pzhcs_QifZ1xLMNcWlX0VhZAnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

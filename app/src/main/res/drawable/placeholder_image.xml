@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Background Rectangle -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M0,0h24v24h-24z" />
+
+    <!-- Image icon shape (mountains and sun) -->
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M21,19V5c0-1.1-0.9-2-2-2H5c-1.1,0-2,0.9-2,2v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2zM5,5h14v10l-4.5-4.5-3.5,4.5-2.5-3L5,17V5zm3.5,3c0.83,0 1.5,0.67 1.5,1.5S9.33,11 8.5,11 7,10.33 7,9.5 7.67,8 8.5,8z" />
+
+
+    <!-- Diagonal line at ~60 degrees -->
+    <path
+        android:strokeColor="#9E9E9E"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M-4,28 L28,-4" />
+</vector>

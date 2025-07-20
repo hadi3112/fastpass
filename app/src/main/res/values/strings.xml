@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fast Pass</string>
+    <string name="underlined_text"><u>Forgot Password?</u></string>
+    <string name="sign_up_text">Dont have an account? Sign up</string>
+    <string name="set_up_text">To set up your account, we\'ll need:</string>
+    <string name="navigation_drawer_open">Open drawer</string>
+    <string name="navigation_drawer_close">Close drawer</string>
+
+</resources>
